@@ -91,3 +91,6 @@ namespace Learn_CS_24_Thiessen_MEthod
         }
     }
 }
+
+                                 Output:
+                                 ![image](https://user-images.githubusercontent.com/84319482/130967470-9d6a4b60-b9fd-4328-b67a-a3fa28488209.png)
